@@ -9,8 +9,8 @@ on:
     - 'v*'
   #  branches: 
   #    - master
-  schedule:
-    - cron: '10 10 * * 1,4,6'
+  #schedule:
+  #  - cron: '10 10 * * 1,4,6'
   watch:
     types: [started]
    
